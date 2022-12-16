@@ -1,7 +1,7 @@
 {
   "main.css": "/chat-app-final-project-frontend/static/css/main.8c840bb1.chunk.css",
-  "main.js": "/chat-app-final-project-frontend/static/js/main.3fe43797.chunk.js",
-  "main.js.map": "/chat-app-final-project-frontend/static/js/main.3fe43797.chunk.js.map",
+  "main.js": "/chat-app-final-project-frontend/static/js/main.f84c6b6a.chunk.js",
+  "main.js.map": "/chat-app-final-project-frontend/static/js/main.f84c6b6a.chunk.js.map",
   "static/css/1.822d66df.chunk.css": "/chat-app-final-project-frontend/static/css/1.822d66df.chunk.css",
   "static/js/1.d09318a5.chunk.js": "/chat-app-final-project-frontend/static/js/1.d09318a5.chunk.js",
   "static/js/1.d09318a5.chunk.js.map": "/chat-app-final-project-frontend/static/js/1.d09318a5.chunk.js.map",
@@ -13,6 +13,6 @@
   "static/css/1.822d66df.chunk.css.map": "/chat-app-final-project-frontend/static/css/1.822d66df.chunk.css.map",
   "static/css/main.8c840bb1.chunk.css.map": "/chat-app-final-project-frontend/static/css/main.8c840bb1.chunk.css.map",
   "index.html": "/chat-app-final-project-frontend/index.html",
-  "precache-manifest.50a5cb88440bce527a6d829ff99795b8.js": "/chat-app-final-project-frontend/precache-manifest.50a5cb88440bce527a6d829ff99795b8.js",
+  "precache-manifest.ccc549f69f04e5689b1fbbaf61187320.js": "/chat-app-final-project-frontend/precache-manifest.ccc549f69f04e5689b1fbbaf61187320.js",
   "service-worker.js": "/chat-app-final-project-frontend/service-worker.js"
 }
